@@ -1,17 +1,17 @@
-# 👋 Hello World! I'm Lucas Frank Imhof  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=22FF07D4&reversal=false"/>
 
-- 🖥️ I currently work as a Quality Analyst
-- 👀 I’m interested in learning new technologies for automated testing
-- 🌱 I’m currently learning Cypress, Python and JS
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&pause=1000&color=22FF07D4&vCenter=true&width=750&lines=%F0%9F%91%8B+Hello+World!+I'm+Lucas+Frank+Imhof)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1&pause=1&color=22FF07D4&center=falso&vCenter=falso&multiline=true&repeat=falso&random=falso&width=830&height=70&lines=%F0%9F%96%A5%EF%B8%8F+I+currently+work+as+a+Quality+Analyst;%F0%9F%91%80+I%E2%80%99m+interested+in+learning+new+technologies+for+automated+testing;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Cypress%2C+Python+and+JS)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFImhof&show_icons=true&theme=ocean_dark&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFImhof&show_icons=true&theme=shadow_green&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFImhof&layout=donut&langs_count=8&card_width=320&theme=ocean_dark&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFImhof&layout=donut&langs_count=8&card_width=320&theme=shadow_green&bg_color=00000000" />
 </a>
 
-<h1 align="left">Technologies I use</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=1&pause=1&color=22FF07D4&center=false&vCenter=true&repeat=false&random=false&width=300&height=70&lines=Technologies+I+use" alt="Typing SVG" /></a>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
 </p>
 
-## My Social Medias  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=1&pause=1&color=22FF07D4&center=false&vCenter=true&repeat=false&random=false&width=300&height=70&lines=My+Social+Media" alt="Typing SVG" /></a>
 
 <p align="left">
   <!-- Instagram -->
