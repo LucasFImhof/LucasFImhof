@@ -5,13 +5,13 @@
 - 🌱 I’m currently learning Cypress, Python and JS
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFImhof&show_icons=true&theme=github_dark&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFImhof&show_icons=true&theme=ocean_dark&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFImhof&layout=donut&langs_count=8&card_width=320&theme=github_dark&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFImhof&layout=donut&langs_count=8&card_width=320&theme=ocean_dark&bg_color=00000000" />
 </a>
 
-<h1 align="left">Tecnologias que utilizo</h1>
+<h1 align="left">Technologies I use</h1>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
 </p>
 
-## Minhas Redes Sociais  
+## My Social Medias  
 
 <p align="left">
   <!-- Instagram -->
