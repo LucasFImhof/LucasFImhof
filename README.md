@@ -29,7 +29,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/lucas-frank-imhof-186050259" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-frank-imhof-186050259" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="30"/>
   </a>
 
